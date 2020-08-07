@@ -1,6 +1,3 @@
-require_relative
-
-
 def sort_array_asc(array)
   array.sort
 end
